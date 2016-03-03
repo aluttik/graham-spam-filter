@@ -1,6 +1,6 @@
-# grahm-spam-filter
+# graham-spam-filter
 
-A spam filter based on Paul Grahm's [A Plan for Spam](http://www.paulgraham.com/spam.html).
+A spam filter based on Paul Graham's [A Plan for Spam](http://www.paulgraham.com/spam.html).
 
 ### Installation
 
